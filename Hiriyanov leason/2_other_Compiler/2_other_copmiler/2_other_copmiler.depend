@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620620831 source:c:\programming\c\hiriyanov leason\2_other_compiler\2_other_copmiler\main.c
+	<stdio.h>
+	<stdlib.h>
+
